@@ -1,0 +1,27 @@
+# === IA e Modelos de Linguagem ===
+openai
+langchain
+langchain-community
+langchain-openai
+huggingface-hub
+transformers
+tiktoken
+
+# === Manipulação de Dados ===
+pypdf
+beautifulsoup4
+
+# === YouTube e Áudio ===
+yt_dlp
+pydub
+
+# === Templates ===
+jinja2
+
+# === APIs do Google ===
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# === Jupyter e Ambiente de Execução ===
+ipykernel
